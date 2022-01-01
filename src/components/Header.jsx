@@ -1,9 +1,12 @@
+import "./Header.css";
 import React from "react";
+
+
 
 function Header() {
   return (
     <header>
-      <h1>Hello World !!</h1>
+      <h1>Konnect</h1>
     </header>
   );
 }

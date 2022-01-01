@@ -11,9 +11,7 @@ body {
   padding: 0 16px;
 }
 
-header {
-  background-color: white;
-  margin: auto -16px;
-  padding: 16px 32px;
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+.flex{
+  display: flex;
+  align-items: center;
 }
